@@ -1,4 +1,4 @@
-# The Swarmsons
+# Swarm City High Level Roadmap
 
 ### How to use this document
 Every episode is a development sprint. After each sprint the stakeholders expect a demo in which the scenario described by the episode is played out. Each episode consists of a set of Epics devs must work through in order to create the functionalities highlighted in the episode.
