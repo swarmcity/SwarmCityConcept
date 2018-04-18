@@ -71,7 +71,7 @@ Will they successfully complete this deal, or is a conflict around the corner?
 https://github.com/swarmcity/SwarmCityConcept/issues/12
 
 - As a seeker, I choose one of the repliers to become my provider so we can enter in a deal.
-https://hackmd.io/9D--FV3cQYSDp6zzRLOuFw
+https://github.com/swarmcity/SwarmCityConcept/issues/13
 
 - As a Provider, I accept and fund the deal, so the Seeker and I are engaged in a deal.
 https://hackmd.io/2BcuAbNPTXOhWW2s-E9H8w
