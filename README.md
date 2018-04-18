@@ -68,7 +68,7 @@ Will they successfully complete this deal, or is a conflict around the corner?
 
 #### New epics in this episode:
 - As a user, I see another user’s reputation so I can interpret it to decide on the trustworthiness of the other user.
-https://hackmd.io/0HK2BaiXTsO8wPdlzPy12w
+https://github.com/swarmcity/SwarmCityConcept/issues/12
 
 - As a seeker, I choose one of the repliers to become my provider so we can enter in a deal.
 https://hackmd.io/9D--FV3cQYSDp6zzRLOuFw
