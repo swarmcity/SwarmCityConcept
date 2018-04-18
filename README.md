@@ -86,11 +86,8 @@ When a deal is successfully completed both users gain reputation. Frank can view
 Dicky got a taste of SWT, what will he do with his newly gained capital?
 
 #### New epics in this episode:
-- As a seeker, I payout the deal, so the provider gets the funds.
-
-- As a user,  I gain reputation for a hashtag when each deal is completed, so I can show my activity in Swarm City
-
-- As a user, I can see all my transactions so I can feel secure about my history being correct.
+- As a seeker, I payout the deal, so the provider gets the funds and reputation tokens are created for me and the provider.
+https://hackmd.io/2BcuAbNPTXOhWW2s-E9H8w
 
 - As a user, I can see my reputation balances so I can check how other users perceive me.
 
