@@ -89,6 +89,7 @@ Dicky got a taste of SWT, what will he do with his newly gained capital?
 https://hackmd.io/2BcuAbNPTXOhWW2s-E9H8w
 
 - As a user, I can see my reputation balances so I can check how other users perceive me.
+https://hackmd.io/RvAy_erNSdeNcBHS89J4Zw
 
 ## S01 E05: Going sour
 
