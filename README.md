@@ -67,15 +67,14 @@ Frank gets to know the reputation of the repliers, Ellis and Dicky. He chooses D
 Will they successfully complete this deal, or is a conflict around the corner?
 
 #### New epics in this episode:
-- As a user, I can get to know another user’s reputation that I can interpret to decide on the trustworthiness of the other user.
-https://hackmd.io/fg6a9SeBTQ2yJH6asSituQ
+- As a user, I see another user’s reputation so I can interpret it to decide on the trustworthiness of the other user.
+https://hackmd.io/0HK2BaiXTsO8wPdlzPy12w
 
 - As a seeker, I choose one of the repliers to become my provider so we can enter in a deal.
-https://hackmd.io/EXv9Kv90TFyY-p6KB8pg5A
+https://hackmd.io/9D--FV3cQYSDp6zzRLOuFw
 
-- As a provider, I accept and fund the deal, so the seeker and I are engaged in the deal.
-https://hackmd.io/UG_5VRtxS5WJw4RgpH_r9A
-
+- As a Provider, I accept and fund the deal, so the Seeker and I are engaged in a deal.
+https://hackmd.io/2BcuAbNPTXOhWW2s-E9H8w
 
 ## S01 E04: The Successful Deal
 
