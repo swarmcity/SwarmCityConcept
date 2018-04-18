@@ -74,7 +74,7 @@ https://github.com/swarmcity/SwarmCityConcept/issues/12
 https://github.com/swarmcity/SwarmCityConcept/issues/13
 
 - As a Provider, I accept and fund the deal, so the Seeker and I are engaged in a deal.
-
+https://hackmd.io/UG_5VRtxS5WJw4RgpH_r9A?both
 
 ## S01 E04: The Successful Deal
 
