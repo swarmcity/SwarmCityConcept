@@ -74,7 +74,7 @@ https://github.com/swarmcity/SwarmCityConcept/issues/12
 https://github.com/swarmcity/SwarmCityConcept/issues/13
 
 - As a Provider, I accept and fund the deal, so the Seeker and I are engaged in a deal.
-https://github.com/swarmcity/SwarmCityConcept/issues/14
+
 
 ## S01 E04: The Successful Deal
 
@@ -86,7 +86,7 @@ Dicky got a taste of SWT, what will he do with his newly gained capital?
 
 #### New epics in this episode:
 - As a seeker, I payout the deal, so the provider gets the funds and reputation tokens are created for me and the provider.
-https://hackmd.io/2BcuAbNPTXOhWW2s-E9H8w
+https://github.com/swarmcity/SwarmCityConcept/issues/14
 
 - As a user, I can see my reputation balances so I can check how other users perceive me.
 https://hackmd.io/RvAy_erNSdeNcBHS89J4Zw
