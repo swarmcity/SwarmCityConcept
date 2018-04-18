@@ -102,6 +102,7 @@ Dicky makes a new request and selects Brenda as a provider, resulting in a deal 
 https://hackmd.io/gdx3zM9oTX27re5DzDmI_Q?both
 
 - As a user, I can start a conflict about the deal so I can get my SWT back.
+https://hackmd.io/C9NJhFISQGmZrm512R9ZEA
 
 ## S01 E06: Finding peace
 In episode 6, we meet Crystal, the hashtagmaintainer. She is responsible for resolving the conflict between Dicky and Brenda.
