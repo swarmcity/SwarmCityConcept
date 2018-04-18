@@ -99,6 +99,8 @@ Dicky makes a new request and selects Brenda as a provider, resulting in a deal 
 
 #### New epics in this episode:
 - As a user, I can chat so I can communicate about the deal.
+https://hackmd.io/gdx3zM9oTX27re5DzDmI_Q?both
+
 - As a user, I can start a conflict about the deal so I can get my SWT back.
 
 ## S01 E06: Finding peace
