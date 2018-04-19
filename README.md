@@ -113,7 +113,7 @@ Crystal resolves the conflict in favour of Dicky. Brenda realizes it was her own
 
 #### New epics in this episode:
 - As a hashtagmaintainer I can resolve conflicts so users have a safe and fair marketplace.
-
+https://hackmd.io/HWL38ETcTv2u5_kAbjwmIg
 
 ## S01 E07: Searching New Horizons
 In episode 7, Brenda tries a new thing on a different hashtag.
@@ -125,10 +125,12 @@ She sees Garry's request. It's nearby, it's the kind of amount she's looking for
 Garry loses his patience with Brenda, so unselects her and picks someone else.
 
 #### New epics in this episode:
-- As a user, I can see all the hashtags with the number of done deals for each hashtag, so I can see the activity in Swarm City. 
+- As a user, I can see all the hashtags with the number of done deals for each hashtag, so I can see the activity in Swarm City. https://hackmd.io/DIjO_Oj_TsCDgUa4RQ0vFw
 - As a user, I can filter the hashtagItems on my geo-range of choice so I can see items in my area.
+https://hackmd.io/7oaEEzeVSsaHMDYWUtZ8jA?view
 - As seeker, I can unselect the replier I previously selected, so I can choose another one.
-- As a provider, I can see when a seeker unselects me, so I know I’m no longer selected.
+https://hackmd.io/OpwbB8YoSfKZRYn1_oKRRw
+- As a provider, I can see when a seeker unselects me, so I know I’m no longer selected. https://hackmd.io/VXi71fKaSaG7NbSwvvDHhQ
 - TO ADD: new epic about "give my location", can get triggered when you want to filter on a hashtag, or when you post a new request on a
 
 
@@ -141,7 +143,9 @@ After unselecting Brenda, Garry selects Pepe as a provider. Unfortunaly, Pepe de
 
 #### New epics in this episode:
 - As a seeker, I notice the replier I selected declines, so I can choose another one.
+https://hackmd.io/4e3-o36mSZmApAV8AXCPHg
 - As a seeker, I can cancel my request, so the request is no longer on the hashtag.
+https://hackmd.io/zL84umAnREmgP0F7fwjgag
 
 
 ## S01 E09: Rollercoastin' Brenda
@@ -153,8 +157,8 @@ Upon waking up, she reaches for her phone and sees a new notification: "You are 
 She's a bit pissed off about it and contacts the hashtagmaintainer to get some education. 
 
 #### New epics in this episode:
-- As a user, I get notified every time there is a statechange in a request/deal I am active in, so I am informed about the activity.
-- As a user, I can find the contact details for the hashtag, so I can contact the hashtagmaintainer
+- As a user, I get notified every time there is a statechange in a request/deal I am active in, so I am informed about the activity. https://hackmd.io/-yzHIcwyRsmfWgjj-FnbGw
+- As a user, I can find the contact details for the hashtag, so I can contact the hashtagmaintainer https://hackmd.io/Vp8-fwJiSBetu8ymG2pmpg
 
 -----
 With ♡ from Swarm City
