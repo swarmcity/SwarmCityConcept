@@ -12,11 +12,10 @@ ___
 In Episode 1 of the pilot-season: Terminal is born! 
 
 User stories:
-- https://github.com/swarmcity/SwarmCityConcept/issues/3
-- https://github.com/swarmcity/SwarmCityConcept/issues/2
-- https://github.com/swarmcity/SwarmCityConcept/issues/4
-- https://github.com/swarmcity/SwarmCityConcept/issues/6
- 
+- [x] https://github.com/swarmcity/SwarmCityConcept/issues/3
+- [x] https://github.com/swarmcity/SwarmCityConcept/issues/2
+- [x] https://github.com/swarmcity/SwarmCityConcept/issues/4
+- [x] https://github.com/swarmcity/SwarmCityConcept/issues/6 
 ___
 
 
