@@ -7,7 +7,7 @@ ___
 
 # Season 0 (Pilot)
 
-## S00 E01: All beginnings are hard (wss) 
+## S00 E01: All beginnings are hard [DONE]
 
 In Episode 1 of the pilot-season: Terminal is born! 
 
