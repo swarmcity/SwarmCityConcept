@@ -70,7 +70,7 @@ In episode 2, two people reply to Frank's request.
 
 Alice sees Frank's request on Facebook. He taps it, and gets transported by way of the internet to swarm.city. Here Alice can see the details of the request, and he decides to reply.
 
-Dicky is already on Swarm City, specifically on page /hashtag of #Settler. He also is intrigued by Frank's request, and taps it to see the detail. Dicky decides to reply as well. 
+Tom is already on Swarm City, specifically on page /hashtag of #Settler. He also is intrigued by Frank's request, and taps it to see the detail. Tom decides to reply as well. 
 
 Frank sees the two replies. Who will he choose?
 
@@ -85,9 +85,9 @@ https://github.com/swarmcity/SwarmCityConcept/issues/11
 
 In episode 3, Frank has to decide who he wants to choose as a provider for his request.
 
-Frank gets to know the reputation of the repliers, Alice and Dicky. Alice's reputation is sketchy, so he chooses Dicky to become the Provider.
+Frank gets to know the reputation of the repliers, Alice and Tom. Alice's reputation is sketchy, so he chooses Tom to become the Provider.
 
-Dicky is very happy, and agrees to the deal. 
+Tom is very happy, and agrees to the deal. 
 
 Will they successfully complete this deal, or is there a conflict waiting around the corner?
 
@@ -103,11 +103,11 @@ https://github.com/swarmcity/SwarmCityConcept/issues/15
 
 ## S01 E04: The Successful Deal
 
-In episode 4, Frank and Dicky successfully complete a deal.
+In episode 4, Frank and Tom successfully complete a deal.
 
-When a deal is successfully completed both users gain reputation. Frank can view his new reputation, while Dicky verifies that he received his SWT. 
+When a deal is successfully completed both users gain reputation. Frank can view his new reputation, while Tom verifies that he received his SWT. 
 
-Finally Dicky's got his SWT. He knows it opens up a whole new world of possibilities. What will he do with his newly gained capital?
+Finally Tom's got his SWT. He knows it opens up a whole new world of possibilities. What will he do with his newly gained capital?
 
 #### New epics in this episode:
 - [ ] As a seeker, I payout the deal, so the provider gets the funds and reputation tokens are created for me and the provider.
@@ -117,13 +117,13 @@ https://github.com/swarmcity/SwarmCityConcept/issues/14
 https://github.com/swarmcity/SwarmCityConcept/issues/17
 
 ## S01 E05: Going sour
-In episode 5, Dicky tries to make up his mind about what to request first. There's so many possibilities. 
+In episode 5, Tom tries to make up his mind about what to request first. There's so many possibilities. 
 
-After pondering on it, he makes a new request and selects Brenda as a provider, resulting in a deal between Brenda and Dicky. 
+After pondering on it, he makes a new request and selects Brenda as a provider, resulting in a deal between Brenda and Tom. 
 
-Even though Brenda agreed to the deal, she never shows up. Dicky wonders where she is so he sends her a chat message in their shared deal. 
+Even though Brenda agreed to the deal, she never shows up. Tom wonders where she is so he sends her a chat message in their shared deal. 
 
-Brenda replies ("Damn, it's just too far for me, Dick!"), which of course makes Dicky seriously pissed off. He's resorted to his last option: initiating conflict resolution. Will Dicky get his satisfaction?
+Brenda replies ("Damn, it's just too far for me, Dick!"), which of course makes Tom seriously pissed off. He's resorted to his last option: initiating conflict resolution. Will Tom get his satisfaction?
 
 #### New epics in this episode:
 - [ ] As a user, I can chat so I can communicate about the deal.
@@ -133,11 +133,11 @@ https://hackmd.io/gdx3zM9oTX27re5DzDmI_Q?both
 https://hackmd.io/C9NJhFISQGmZrm512R9ZEA
 
 ## S01 E06: Finding peace
-In episode 6 we meet Crystal, the marketplace maintainer. She is responsible for resolving the conflict between Dicky and Brenda.
+In episode 6 we meet Crystal, the marketplace maintainer. She is responsible for resolving the conflict between Tom and Brenda.
 
-Crystal checks the details of their deal. She joins the chat with Dicky and Brenda, and starts communicating with them. She hears both sides of the argument.
+Crystal checks the details of their deal. She joins the chat with Tom and Brenda, and starts communicating with them. She hears both sides of the argument.
 
-Crystal resolves the conflict in favor of Dicky. Brenda realizes it was her own fault. (For one thing, spelling your customer's name right is important.) Will she do a better job next time? 
+Crystal resolves the conflict in favor of Tom. Brenda realizes it was her own fault. (For one thing, spelling your customer's name right is important.) Will she do a better job next time? 
 
 #### New epics in this episode:
 - [ ] As a hashtagmaintainer I can resolve conflicts so users have a safe and fair marketplace.
