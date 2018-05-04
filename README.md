@@ -68,7 +68,7 @@ https://github.com/swarmcity/SwarmCityConcept/issues/9
 
 In episode 2, two people reply to Frank's request.
 
-Alice sees Frank's request on Facebook. He tap it, and gets transported by way of the internet to swarm.city. Here Alice can see the details of the request, and he decides to reply.
+Alice sees Frank's request on Facebook. He taps it, and gets transported by way of the internet to swarm.city. Here Alice can see the details of the request, and he decides to reply.
 
 Dicky is already on Swarm City, specifically on page /hashtag of #Settler. He also is intrigued by Frank's request, and taps it to see the detail. Dicky decides to reply as well. 
 
