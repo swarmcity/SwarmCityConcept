@@ -52,7 +52,7 @@ Who, oh who, will respond to Frank's request?
 
 #### New epics in this episode:
 - [ ] As a Seeker, I can share the relevant location range of my request so providers can choose if it’s relevant to them.
-https://hackmd.io/CuQ_a1AWQHSdU-f5UlePfA
+https://github.com/swarmcity/SwarmCityConcept/issues/18
 
 - [ ] As a seeker, I can post a new request in a hashtag, describing what I am asking for and how much SWT I am offering,  so providers can see what my need is.
 https://github.com/swarmcity/SwarmCityConcept/issues/7
