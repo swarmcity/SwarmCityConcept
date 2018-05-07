@@ -1,7 +1,7 @@
-## Swarm City Clickmodels
+# Swarm City Clickmodels
 
 ### How to use this folder
-This folder contains 2 Sketch-files
+This folder contains 2 Sketch-files:
 - SwarmCitySketch 0.4 DEF.sketch for mobile
 - SwarmCitySketch 0.4 DESKTOP.sketch for desktop
 
