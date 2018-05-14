@@ -123,7 +123,7 @@ After pondering on it, he makes a new request and selects Brenda as a provider, 
 
 Even though Brenda agreed to the deal, she never shows up. Tom wonders where she is so he sends her a chat message in their shared deal. 
 
-Brenda replies ("Damn, it's just too far for me, Dick!"), which of course makes Tom seriously pissed off. He's resorted to his last option: initiating conflict resolution. Will Tom get his satisfaction?
+Brenda replies ("Damn, it's just too far for me, Tom!"), which of course makes Tom seriously pissed off. He's resorted to his last option: initiating conflict resolution. Will Tom get his satisfaction?
 
 #### New epics in this episode:
 - [ ] As a user, I can chat so I can communicate about the deal.
