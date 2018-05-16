@@ -1,4 +1,4 @@
-# Swarm City High Level Roadmap 
+# Swarm City High Level Roadmap
 
 ### How to use this document
 Every Episode is a development sprint. Each Episode consists of a set of Epics devs must work through in order to create the functionalities highlighted in the Episode.
@@ -8,17 +8,13 @@ After each sprint the dev team will show a functioning DApp demo in which the sc
 Once an Episode is completed, devs are free to move on to the ensuing Episode.
 
 ### Glossary 
-Check out this document to learn more about the general concepts of Swarm City.
-- Hashtags
-- Hives
-- Storefronts
-- ...
+Check out these articles to learn more about the general concepts of Swarm City.
+- [Hashtags](https://press.swarm.city/hashtags-revisited-694a7c9ff7a4)
+- [Hives](https://press.swarm.city/hives-f4845639eccf)
+- [Storefronts](https://press.swarm.city/storefront-15f4c2a28d6f)
+- [Reputation](https://press.swarm.city/blockchain-reputation-promoting-good-actors-in-a-free-society-8f6117069cde)
+- [Overview of Swarm City's philosophical and technical pillars](http://thisis.swarm.city/)
 
-----
-
-General remarks
-- In the api documentation, always indicate which component the API is "helping" > storage, messaging or transactions. 
-- insert the concepts (hashtags / storefronts / hives / ...)
 ___
 
 # Season 0 (Pilot) [DONE]
@@ -64,7 +60,7 @@ https://github.com/swarmcity/SwarmCityConcept/issues/8
 https://github.com/swarmcity/SwarmCityConcept/issues/9
 
 
-## S01 E02: Talking Shop
+## S01 E02: Request Replies
 
 In episode 2, two people reply to Frank's request.
 
@@ -116,24 +112,31 @@ https://github.com/swarmcity/SwarmCityConcept/issues/14
 - [ ] As a user, I can see my reputation balances so I can check how other users perceive me.
 https://github.com/swarmcity/SwarmCityConcept/issues/17
 
-## S01 E05: Going sour
-In episode 5, Tom tries to make up his mind about what to request first. There's so many possibilities. 
+## S01 E05: Going Sour
+In episode 5 Tom tries to make up his mind about where to post his first request. There are so many possibilities to choose from! 
 
-After pondering on it, he makes a new request and selects Brenda as a provider, resulting in a deal between Brenda and Tom. 
+In order to decide, Tom checks out the information display for several different hashtags to see their conflict/success ratio, and provider/seeker ratio.
 
-Even though Brenda agreed to the deal, she never shows up. Tom wonders where she is so he sends her a chat message in their shared deal. 
+He chooses #SCCommShare.
 
-Brenda replies ("Damn, it's just too far for me, Tom!"), which of course makes Tom seriously pissed off. He's resorted to his last option: initiating conflict resolution. Will Tom get his satisfaction?
+Tom makes a new request and selects Brenda as a provider, which results in a deal between Brenda and Tom. 
+
+Although Brenda agreed to the deal, she never delivers. Tom wonders where she is so he sends her a chat message in their shared deal. 
+
+Brenda replies "Damn, it's just too hard for me, Ton! You want it in what langwage?", which of course makes Tom seriously pissed off, as he is quite anal with spelling. He has to resort to his last option: initiating conflict resolution with the hashtag maintainer. Will Tom get justice?
 
 #### New epics in this episode:
+- [ ] As a user I can find the details for a hashtag, so I can learn more about it.
+https://hackmd.io/Vp8-fwJiSBetu8ymG2pmpg?both
+
 - [ ] As a user, I can chat so I can communicate about the deal.
 https://hackmd.io/gdx3zM9oTX27re5DzDmI_Q?both
 
-- [ ] As a user, I can start a conflict about the deal so I can get my SWT back.
+- [ ] As a user I can start a conflict about the deal, so I can express I do not agree to the deal anymore.
 https://hackmd.io/C9NJhFISQGmZrm512R9ZEA
 
-## S01 E06: Finding peace
-In episode 6 we meet Crystal, the marketplace maintainer. She is responsible for resolving the conflict between Tom and Brenda.
+## S01 E06: Finding Peace
+In episode 6 we meet Crystal, the Hashtag maintainer. She is responsible for resolving the conflict between Tom and Brenda.
 
 Crystal checks the details of their deal. She joins the chat with Tom and Brenda, and starts communicating with them. She hears both sides of the argument.
 
@@ -153,10 +156,10 @@ Brenda sees Gary's request. It's nearby, and it's the amount she's looking for, 
 Gary loses his patience with Brenda, so he deselects her and picks someone else.
 
 #### New epics in this episode:
-- [ ] As a user, I can see all the hashtags with the number of done deals for each hashtag, so I can see the activity in Swarm City. https://hackmd.io/DIjO_Oj_TsCDgUa4RQ0vFw
+- [ ] As a user, I can see all hashtags with the number of completed deals for each hashtag, so I can see the activity in Swarm City. https://hackmd.io/DIjO_Oj_TsCDgUa4RQ0vFw
 
 FAFFY WORK NEEDED
-- [ ] As a user, I can filter the hashtagItems on my geo-range of choice so I can see items in my area.
+- [ ] As a user, I can filter a hashtag’s items by my geo-range of choice so I can see items in my area.
 https://hackmd.io/7oaEEzeVSsaHMDYWUtZ8jA?view
 
 END FAFFY WORK NEEDED
@@ -164,6 +167,9 @@ END FAFFY WORK NEEDED
 - [ ] As seeker, I can deselect the replier I previously selected, so I can choose another one.
 https://hackmd.io/OpwbB8YoSfKZRYn1_oKRRw
 - [ ] As a provider, I can see when a seeker deselects me, so I know I’m no longer selected. https://hackmd.io/VXi71fKaSaG7NbSwvvDHhQ
+
+> use one epic for all notifications 
+> https://hackmd.io/gdx3zM9oTX27re5DzDmI_Q
 
 
 ## S01 E08: Bad Luck Gary
@@ -173,7 +179,7 @@ In episode 8, Gary has no luck with his deal, so he just gives up.
 After deselecting Brenda, Gary selects Pepe as a Provider. Unfortunaly, Pepe declines which leaves Gary's deal without a Provider. This makes Gary totally fed up with Swarm City, cancelling his deal. Will Gary ever do a new request in Swarm.city?
 
 #### New epics in this episode:
-FAFFY WORK NEEDED
+FAFFY WORK NEEDED - ASK Faffy if we really need an epic for this.
 
 - [ ] As a provider, I decline the selection, so I can express I'm no longer interested in fullfilling the request.
 
@@ -181,15 +187,6 @@ FAFFY END WORK NEEDED
 
 - [ ] As a seeker, I can cancel my request, so the request is no longer on the hashtag.
 https://hackmd.io/zL84umAnREmgP0F7fwjgag
-
-
-## S01 E09: Rollercoastin' Brenda
-
-In episode 09, Brenda wakes up and sees how the deal has played out.
-
-Upon waking up, she reaches for her phone and sees a new notification: "You are selected", which fills her with joy. Right after she sees "You have been unselected", realising that being passed out on the couch made her miss the deal completely.
-
-She's a bit pissed off about it and contacts the hashtagmaintainer to get some education. 
 
 #### New epics in this episode:
 - [ ] As a user, I get notified so I can quickly navigate to the actionnable items. 
@@ -201,7 +198,7 @@ https://hackmd.io/Vp8-fwJiSBetu8ymG2pmpg
 END FAFFY AND FLURKEL WORK NEEDED
 
 
-## S01 E10: Multiple Identities & Device Sync
+## S01 E9: Multiple Identities & Device Sync
 In episode 10, we meet Barry. He wants to buy a sexdoll. Of course he wants to keep this private, so he uses a different identity.
 When he comes home, he uses his desktop computer to check the replies.
 
@@ -209,9 +206,12 @@ Will someone find out it's him?
 
 #### New epics in this episode:
 - [ ] As a user, I choose an identity to do a request with, so I can have control over how people perceive me (privacy).
-- [ ] As a user, I can connect a new device with an existing device so all my devices are in sync.
+https://hackmd.io/Sh-nRjRkRbmsH6WdbOpOvg
 
-## S01 E11: Alternate Reality
+- [ ] As a user, I can connect a new device with an existing device so all my devices are in sync.
+https://hackmd.io/2-E6Ql2MSXOALMI7NiBTUw
+
+## S01 E10: Alternate Reality
 In episode 11, we meet Johnny.
 Johnny is a long time fan of Swarm City and still has his original wallet. He's going to try to do a request. 
 
@@ -229,9 +229,12 @@ https://hackmd.io/2ULp-spFSPqiqR04ulezUw
 Where Swarm City is prepared to do storefronts
 
 ## S02 E01
-Hashtag creation
+Social Backup
 
 ## S02 E02
+Hashtag creation
+
+## S02 E03
 Preparing the dom for storefront
 
 -----
