@@ -158,19 +158,11 @@ Gary loses his patience with Brenda, so he deselects her and picks someone else.
 #### New epics in this episode:
 - [ ] As a user, I can see all hashtags with the number of completed deals for each hashtag, so I can see the activity in Swarm City. https://hackmd.io/DIjO_Oj_TsCDgUa4RQ0vFw
 
-FAFFY WORK NEEDED
 - [ ] As a user, I can filter a hashtag’s items by my geo-range of choice so I can see items in my area.
 https://hackmd.io/7oaEEzeVSsaHMDYWUtZ8jA?view
 
-END FAFFY WORK NEEDED
-
 - [ ] As seeker, I can deselect the replier I previously selected, so I can choose another one.
 https://hackmd.io/OpwbB8YoSfKZRYn1_oKRRw
-- [ ] As a provider, I can see when a seeker deselects me, so I know I’m no longer selected. https://hackmd.io/VXi71fKaSaG7NbSwvvDHhQ
-
-> use one epic for all notifications 
-> https://hackmd.io/gdx3zM9oTX27re5DzDmI_Q
-
 
 ## S01 E08: Bad Luck Gary
 
@@ -182,20 +174,24 @@ After deselecting Brenda, Gary selects Pepe as a Provider. Unfortunaly, Pepe dec
 FAFFY WORK NEEDED - ASK Faffy if we really need an epic for this.
 
 - [ ] As a provider, I decline the selection, so I can express I'm no longer interested in fullfilling the request.
+https://hackmd.io/LdGriI5uQyqR4DFoXmuPFg
 
 FAFFY END WORK NEEDED
 
 - [ ] As a seeker, I can cancel my request, so the request is no longer on the hashtag.
 https://hackmd.io/zL84umAnREmgP0F7fwjgag
 
-#### New epics in this episode:
 - [ ] As a user, I get notified so I can quickly navigate to the actionnable items. 
-https://hackmd.io/4e3-o36mSZmApAV8AXCPHg
+(Read main Notifictions epic)
 
 FAFFY AND FLURKEL WORK NEEDED
 - [ ] As a user, I can find the contact details for the hashtag, so I can contact the hashtagmaintainer 
 https://hackmd.io/Vp8-fwJiSBetu8ymG2pmpg
 END FAFFY AND FLURKEL WORK NEEDED
+
+
+
+--------------------------------
 
 
 ## S01 E9: Multiple Identities & Device Sync
@@ -225,6 +221,14 @@ https://hackmd.io/2ULp-spFSPqiqR04ulezUw
 
 -----
 
+CHAT 
+https://hackmd.io/gdx3zM9oTX27re5DzDmI_Q
+
+NOTIFICATIONS
+https://hackmd.io/4e3-o36mSZmApAV8AXCPHg
+
+-----
+
 # Season 2: Readying the DOM
 Where Swarm City is prepared to do storefronts
 
@@ -247,3 +251,4 @@ Where Swarm City meets Aragon
 -----
 
 With ♡ from Swarm City
+
