@@ -15,6 +15,10 @@ Check out these articles to learn more about the general concepts of Swarm City.
 - [Reputation](https://press.swarm.city/blockchain-reputation-promoting-good-actors-in-a-free-society-8f6117069cde)
 - [Overview of Swarm City's philosophical and technical pillars](http://thisis.swarm.city/)
 
+### Supporting documentation
+- [click through models](https://github.com/swarmcity/SwarmCityConcept/tree/master/clickmodels)
+- [flowcharts](https://github.com/swarmcity/SwarmCityConcept/tree/master/Flowcharts)
+- [start contributing](https://github.com/swarmcity/SwarmCityConcept/blob/master/CONTRIBUTING.md)
 ___
 
 # Season 0 (Pilot) [DONE]
@@ -168,27 +172,20 @@ https://hackmd.io/OpwbB8YoSfKZRYn1_oKRRw
 
 In episode 8, Gary has no luck with his deal, so he just gives up.
 
-After deselecting Brenda, Gary selects Pepe as a Provider. Unfortunaly, Pepe declines which leaves Gary's deal without a Provider. This makes Gary totally fed up with Swarm City, cancelling his deal. Will Gary ever do a new request in Swarm.city?
+After deselecting Brenda, Gary selects Pepe as a Provider. Unfortunaly, Pepe declines which leaves Gary's deal without a Provider. This makes Gary totally fed up with Swarm City, cancelling his deal. Will Gary ever do a new request in Swarm City?
 
 #### New epics in this episode:
-FAFFY WORK NEEDED - ASK Faffy if we really need an epic for this.
 
 - [ ] As a provider, I decline the selection, so I can express I'm no longer interested in fullfilling the request.
 https://hackmd.io/LdGriI5uQyqR4DFoXmuPFg
 
-FAFFY END WORK NEEDED
 
 - [ ] As a seeker, I can cancel my request, so the request is no longer on the hashtag.
 https://hackmd.io/zL84umAnREmgP0F7fwjgag
 
 - [ ] As a user, I get notified so I can quickly navigate to the actionnable items. 
-(Read main Notifictions epic)
+https://hackmd.io/4e3-o36mSZmApAV8AXCPHg
 
-FAFFY AND FLURKEL WORK NEEDED
-- [ ] As a user, I can find the contact details for the hashtag, so I can contact the hashtagmaintainer 
-https://hackmd.io/Vp8-fwJiSBetu8ymG2pmpg
-END FAFFY AND FLURKEL WORK NEEDED
+-----
 
-
-
---------------------------------
+With ♡ from Swarm City
