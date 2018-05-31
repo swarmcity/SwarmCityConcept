@@ -184,4 +184,4 @@ https://github.com/swarmcity/SwarmCityConcept/issues/28
 https://github.com/swarmcity/SwarmCityConcept/issues/29
 
 - [ ] As a user, I get notified so I can quickly navigate to the actionnable items. 
-https://hackmd.io/4e3-o36mSZmApAV8AXCPHg
+https://github.com/swarmcity/SwarmCityConcept/issues/30
