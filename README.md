@@ -131,13 +131,13 @@ Brenda replies "Damn, it's just too hard for me, Ton! You want it in what langwa
 
 #### New epics in this episode:
 - [ ] As a user I can find the details for a hashtag, so I can learn more about it.
-https://hackmd.io/Vp8-fwJiSBetu8ymG2pmpg?both
+https://github.com/swarmcity/SwarmCityConcept/issues/21
 
 - [ ] As a user, I can chat so I can communicate about the deal.
-https://hackmd.io/gdx3zM9oTX27re5DzDmI_Q?both
+https://github.com/swarmcity/SwarmCityConcept/issues/22
 
 - [ ] As a user I can start a conflict about the deal, so I can express I do not agree to the deal anymore.
-https://hackmd.io/C9NJhFISQGmZrm512R9ZEA
+https://github.com/swarmcity/SwarmCityConcept/issues/23
 
 ## S01 E06: Finding Peace
 In episode 6 we meet Crystal, the Hashtag maintainer. She is responsible for resolving the conflict between Tom and Brenda.
@@ -148,7 +148,7 @@ Crystal resolves the conflict in favor of Tom. Brenda realizes it was her own fa
 
 #### New epics in this episode:
 - [ ] As a hashtagmaintainer I can resolve conflicts so users have a safe and fair marketplace.
-https://hackmd.io/HWL38ETcTv2u5_kAbjwmIg
+https://github.com/swarmcity/SwarmCityConcept/issues/24
 
 ## S01 E07: Searching New Horizons
 In episode 7, Brenda tries to reply to a request on a different hashtag.
@@ -160,13 +160,14 @@ Brenda sees Gary's request. It's nearby, and it's the amount she's looking for, 
 Gary loses his patience with Brenda, so he deselects her and picks someone else.
 
 #### New epics in this episode:
-- [ ] As a user, I can see all hashtags with the number of completed deals for each hashtag, so I can see the activity in Swarm City. https://hackmd.io/DIjO_Oj_TsCDgUa4RQ0vFw
+- [ ] As a user, I can see all hashtags with the number of completed deals for each hashtag, so I can see the activity in Swarm City. 
+https://github.com/swarmcity/SwarmCityConcept/issues/25
 
 - [ ] As a user, I can filter a hashtag’s items by my geo-range of choice so I can see items in my area.
-https://hackmd.io/7oaEEzeVSsaHMDYWUtZ8jA?view
+https://github.com/swarmcity/SwarmCityConcept/issues/26
 
 - [ ] As seeker, I can deselect the replier I previously selected, so I can choose another one.
-https://hackmd.io/OpwbB8YoSfKZRYn1_oKRRw
+https://github.com/swarmcity/SwarmCityConcept/issues/27
 
 ## S01 E08: Bad Luck Gary
 
@@ -177,15 +178,10 @@ After deselecting Brenda, Gary selects Pepe as a Provider. Unfortunaly, Pepe dec
 #### New epics in this episode:
 
 - [ ] As a provider, I decline the selection, so I can express I'm no longer interested in fullfilling the request.
-https://hackmd.io/LdGriI5uQyqR4DFoXmuPFg
-
+https://github.com/swarmcity/SwarmCityConcept/issues/28
 
 - [ ] As a seeker, I can cancel my request, so the request is no longer on the hashtag.
-https://hackmd.io/zL84umAnREmgP0F7fwjgag
+https://github.com/swarmcity/SwarmCityConcept/issues/29
 
 - [ ] As a user, I get notified so I can quickly navigate to the actionnable items. 
 https://hackmd.io/4e3-o36mSZmApAV8AXCPHg
-
------
-
-With ♡ from Swarm City
