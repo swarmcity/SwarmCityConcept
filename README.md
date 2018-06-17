@@ -51,16 +51,16 @@ After submitting his request, he sees it on page /hashtag (of #Settler). Frank t
 Who, oh who, will respond to Frank's request?
 
 #### New epics in this episode:
-- [ ] As a Seeker, I can share the relevant location range of my request so providers can choose if it’s relevant to them.
+- [x] As a Seeker, I can share the relevant location range of my request so providers can choose if it’s relevant to them.
 https://github.com/swarmcity/SwarmCityConcept/issues/18
 
-- [ ] As a seeker, I can post a new request in a hashtag, describing what I am asking for and how much SWT I am offering,  so providers can see what my need is.
+- [x] As a seeker, I can post a new request in a hashtag, describing what I am asking for and how much SWT I am offering,  so providers can see what my need is.
 https://github.com/swarmcity/SwarmCityConcept/issues/7
 
-- [ ] As a user, I can see all the items in a hashtag, so I know the activity of myself and other people.
+- [x] As a user, I can see all the items in a hashtag, so I know the activity of myself and other people.
 https://github.com/swarmcity/SwarmCityConcept/issues/8
 
-- [ ] As a user, I see the detail-view of a request/deal I’m active in so I can verify all the details of this request/deal.
+- [x] As a user, I see the detail-view of a request/deal I’m active in so I can verify all the details of this request/deal.
 https://github.com/swarmcity/SwarmCityConcept/issues/9
 
 
