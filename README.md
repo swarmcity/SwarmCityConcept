@@ -173,7 +173,7 @@ https://github.com/swarmcity/SwarmCityConcept/issues/27
 
 In episode 8, Gary has no luck with his deal, so he just gives up.
 
-After deselecting Brenda, Gary selects Pepe as a Provider. Unfortunaly, Pepe declines which leaves Gary's deal without a Provider. This makes Gary totally fed up with Swarm City, cancelling his deal. Will Gary ever do a new request in Swarm City?
+After deselecting Brenda, Gary selects Pepe as a Provider. Unfortunately, Pepe declines which leaves Gary's deal without a Provider. This makes Gary totally fed up with Swarm City, cancelling his deal. Will Gary ever do a new request in Swarm City?
 
 #### New epics in this episode:
 
