@@ -119,7 +119,7 @@ https://github.com/swarmcity/SwarmCityConcept/issues/17
 ## S01 E05: Going Sour
 In episode 5 Tom tries to make up his mind about where to post his first request. There are so many possibilities to choose from! 
 
-In order to decide, Tom checks out the information display for several different hashtags to see their conflict/success ratio, and provider/seeker ratio.
+In order to decide, Tom checks out the information display for several different hashtags.
 
 He chooses #SCCommShare.
 
