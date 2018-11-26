@@ -185,3 +185,21 @@ https://github.com/swarmcity/SwarmCityConcept/issues/29
 
 - [ ] As a user, I get notified so I can quickly navigate to the actionnable items. 
 https://github.com/swarmcity/SwarmCityConcept/issues/30
+
+## S01 Bonus Episode: The Bridge
+
+In this bonus Episode, Frank has been letting all his friends know that Swarm City is a great place to transact with peers in a decentralized way.
+
+But Frank, who is more crypto-savvy than most, understands that Swarm City exists on the Kovan network, where transaction costs are free. And in order to give the Swarm City ecosystem on Kovan real value, Swam City on Ethereum mainnet will need to be bridged to Kovan.
+
+Frank badly wants his friends to use Swarm City, and receive the benefit of having an account linked to mainnet Ethereum.
+
+Luckily the Kovan-mainnet bridge has been developed! When Frank logs into Swarm City, and heads on over to his wallet, he now sees two accounts, “Cash” and “Reserves”. The SWT in his cash account can be used in the Swarm City ecosystem.
+
+Whenever he wishes to bring his Swarm Tokens to the Ethereum ecosystem, Frank transfers them from his Cash account to his Reserves account.
+
+Will Frank and his friends have an easy time working with both networks?
+
+#### New epics in this episode:
+
+- [ ] As a user, I can shift my SWT between two Ethereum networks, so I can do transactions without worrying about gas prices and Ethereum’s scaling problem. https://hackmd.io/2ULp-spFSPqiqR04ulezUw?both
