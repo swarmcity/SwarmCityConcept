@@ -202,4 +202,4 @@ Will Frank and his friends have an easy time working with both networks?
 
 #### New epics in this episode:
 
-- [ ] As a user, I can shift my SWT between two Ethereum networks, so I can do transactions without worrying about gas prices and Ethereum’s scaling problem. https://hackmd.io/2ULp-spFSPqiqR04ulezUw?both
+- [ ] As a user, I can shift my SWT between two Ethereum networks, so I can do transactions without worrying about gas prices and Ethereum’s scaling problem. https://github.com/swarmcity/SwarmCityConcept/issues/32
