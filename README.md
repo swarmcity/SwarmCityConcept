@@ -75,10 +75,10 @@ Tom is already on Swarm City, specifically on page /hashtag of #Settler. He also
 Frank sees the two replies. Who will he choose?
 
 #### New epics in this episode:
-- [ ] As a provider, I can reply to a request so I can express my interest in entering into this deal.
+- [x] As a provider, I can reply to a request so I can express my interest in entering into this deal.
 https://github.com/swarmcity/SwarmCityConcept/issues/10
 
-- [ ] As a user, I can see the replies to a request.
+- [x] As a user, I can see the replies to a request.
 https://github.com/swarmcity/SwarmCityConcept/issues/11
 
 ## S01 E03: The Burden of Choice
@@ -95,10 +95,10 @@ Will they successfully complete this deal, or is there a conflict waiting around
 - [ ] As a user, I see another user’s reputation so I can interpret it to decide on the trustworthiness of the other user.
 https://github.com/swarmcity/SwarmCityConcept/issues/12
 
-- [ ] As a seeker, I choose one of the repliers to become my provider so we can enter in a deal.
+- [x] As a seeker, I choose one of the repliers to become my provider so we can enter in a deal.
 https://github.com/swarmcity/SwarmCityConcept/issues/13
 
-- [ ] As a Provider, I accept and fund the deal, so the Seeker and I are engaged in a deal.
+- [x] As a Provider, I accept and fund the deal, so the Seeker and I are engaged in a deal.
 https://github.com/swarmcity/SwarmCityConcept/issues/15
 
 ## S01 E04: The Successful Deal
@@ -110,10 +110,10 @@ When a deal is successfully completed both users gain reputation. Frank can view
 Finally Tom's got his SWT. He knows it opens up a whole new world of possibilities. What will he do with his newly gained capital?
 
 #### New epics in this episode:
-- [ ] As a seeker, I payout the deal, so the provider gets the funds and reputation tokens are created for me and the provider.
+- [x] As a seeker, I payout the deal, so the provider gets the funds and reputation tokens are created for me and the provider.
 https://github.com/swarmcity/SwarmCityConcept/issues/14
 
-- [ ] As a user, I can see my reputation balances so I can check how other users perceive me.
+- [x] As a user, I can see my reputation balances so I can check how other users perceive me.
 https://github.com/swarmcity/SwarmCityConcept/issues/17
 
 ## S01 E05: Going Sour
@@ -130,13 +130,13 @@ Although Brenda agreed to the deal, she never delivers. Tom wonders where she is
 Brenda replies "Damn, it's just too hard for me, Ton! You want it in what langwage?", which of course makes Tom seriously pissed off, as he is quite anal with spelling. He has to resort to his last option: initiating conflict resolution with the hashtag maintainer. Will Tom get justice?
 
 #### New epics in this episode:
-- [ ] As a user I can find the details for a hashtag, so I can learn more about it.
+- [x] As a user I can find the details for a hashtag, so I can learn more about it.
 https://github.com/swarmcity/SwarmCityConcept/issues/21
 
-- [ ] As a user, I can chat so I can communicate about the deal.
+- [x] As a user, I can chat so I can communicate about the deal.
 https://github.com/swarmcity/SwarmCityConcept/issues/22
 
-- [ ] As a user I can start a conflict about the deal, so I can express I do not agree to the deal anymore.
+- [x] As a user I can start a conflict about the deal, so I can express I do not agree to the deal anymore.
 https://github.com/swarmcity/SwarmCityConcept/issues/23
 
 ## S01 E06: Finding Peace
@@ -147,7 +147,7 @@ Crystal checks the details of their deal. She joins the chat with Tom and Brenda
 Crystal resolves the conflict in favor of Tom. Brenda realizes it was her own fault. (For one thing, spelling your customer's name right is important.) Will she do a better job next time? 
 
 #### New epics in this episode:
-- [ ] As a hashtagmaintainer I can resolve conflicts so users have a safe and fair marketplace.
+- [x] As a hashtagmaintainer I can resolve conflicts so users have a safe and fair marketplace.
 https://github.com/swarmcity/SwarmCityConcept/issues/24
 
 ## S01 E07: Searching New Horizons
@@ -160,13 +160,13 @@ Brenda sees Gary's request. It's nearby, and it's the amount she's looking for, 
 Gary loses his patience with Brenda, so he deselects her and picks someone else.
 
 #### New epics in this episode:
-- [ ] As a user, I can see all hashtags with the number of completed deals for each hashtag, so I can see the activity in Swarm City. 
+- [x] As a user, I can see all hashtags with the number of completed deals for each hashtag, so I can see the activity in Swarm City. 
 https://github.com/swarmcity/SwarmCityConcept/issues/25
 
-- [ ] As a user, I can filter a hashtag’s items by my geo-range of choice so I can see items in my area.
+- [x] As a user, I can filter a hashtag’s items by my geo-range of choice so I can see items in my area.
 https://github.com/swarmcity/SwarmCityConcept/issues/26
 
-- [ ] As seeker, I can deselect the replier I previously selected, so I can choose another one.
+- [x] As seeker, I can deselect the replier I previously selected, so I can choose another one.
 https://github.com/swarmcity/SwarmCityConcept/issues/27
 
 ## S01 E08: Bad Luck Gary
