@@ -1,4 +1,4 @@
-# Swarm City High Level Roadmap 
+# Swarm City High Level Roadmap
 
 ### How to use this document
 Every Episode is a development sprint. Each Episode consists of a set of Epics devs must work through in order to create the functionalities highlighted in the Episode.
@@ -8,17 +8,17 @@ After each sprint the dev team will show a functioning DApp demo in which the sc
 Once an Episode is completed, devs are free to move on to the ensuing Episode.
 
 ### Glossary 
-Check out this document to learn more about the general concepts of Swarm City.
-- Hashtags
-- Hives
-- Storefronts
-- ...
+Check out these articles to learn more about the general concepts of Swarm City.
+- [Hashtags](https://press.swarm.city/hashtags-revisited-694a7c9ff7a4)
+- [Hives](https://press.swarm.city/hives-f4845639eccf)
+- [Storefronts](https://press.swarm.city/storefront-15f4c2a28d6f)
+- [Reputation](https://press.swarm.city/blockchain-reputation-promoting-good-actors-in-a-free-society-8f6117069cde)
+- [Overview of Swarm City's philosophical and technical pillars](http://thisis.swarm.city/)
 
-----
-
-General remarks
-- In the api documentation, always indicate which component the API is "helping" > storage, messaging or transactions. 
-- insert the concepts (hashtags / storefronts / hives / ...)
+### Supporting documentation
+- [click through models](https://github.com/swarmcity/SwarmCityConcept/tree/master/clickmodels)
+- [flowcharts](https://github.com/swarmcity/SwarmCityConcept/tree/master/Flowcharts)
+- [start contributing](https://github.com/swarmcity/SwarmCityConcept/blob/master/CONTRIBUTING.md)
 ___
 
 # Season 0 (Pilot) [DONE]
@@ -51,20 +51,20 @@ After submitting his request, he sees it on page /hashtag (of #Settler). Frank t
 Who, oh who, will respond to Frank's request?
 
 #### New epics in this episode:
-- [ ] As a Seeker, I can share the relevant location range of my request so providers can choose if it’s relevant to them.
+- [x] As a Seeker, I can share the relevant location range of my request so providers can choose if it’s relevant to them.
 https://github.com/swarmcity/SwarmCityConcept/issues/18
 
-- [ ] As a seeker, I can post a new request in a hashtag, describing what I am asking for and how much SWT I am offering,  so providers can see what my need is.
+- [x] As a seeker, I can post a new request in a hashtag, describing what I am asking for and how much SWT I am offering,  so providers can see what my need is.
 https://github.com/swarmcity/SwarmCityConcept/issues/7
 
-- [ ] As a user, I can see all the items in a hashtag, so I know the activity of myself and other people.
+- [x] As a user, I can see all the items in a hashtag, so I know the activity of myself and other people.
 https://github.com/swarmcity/SwarmCityConcept/issues/8
 
-- [ ] As a user, I see the detail-view of a request/deal I’m active in so I can verify all the details of this request/deal.
+- [x] As a user, I see the detail-view of a request/deal I’m active in so I can verify all the details of this request/deal.
 https://github.com/swarmcity/SwarmCityConcept/issues/9
 
 
-## S01 E02: Talking Shop
+## S01 E02: Request Replies
 
 In episode 2, two people reply to Frank's request.
 
@@ -116,24 +116,31 @@ https://github.com/swarmcity/SwarmCityConcept/issues/14
 - [ ] As a user, I can see my reputation balances so I can check how other users perceive me.
 https://github.com/swarmcity/SwarmCityConcept/issues/17
 
-## S01 E05: Going sour
-In episode 5, Tom tries to make up his mind about what to request first. There's so many possibilities. 
+## S01 E05: Going Sour
+In episode 5 Tom tries to make up his mind about where to post his first request. There are so many possibilities to choose from! 
 
-After pondering on it, he makes a new request and selects Brenda as a provider, resulting in a deal between Brenda and Tom. 
+In order to decide, Tom checks out the information display for several different hashtags.
 
-Even though Brenda agreed to the deal, she never shows up. Tom wonders where she is so he sends her a chat message in their shared deal. 
+He chooses #SCCommShare.
 
-Brenda replies ("Damn, it's just too far for me, Dick!"), which of course makes Tom seriously pissed off. He's resorted to his last option: initiating conflict resolution. Will Tom get his satisfaction?
+Tom makes a new request and selects Brenda as a provider, which results in a deal between Brenda and Tom. 
+
+Although Brenda agreed to the deal, she never delivers. Tom wonders where she is so he sends her a chat message in their shared deal. 
+
+Brenda replies "Damn, it's just too hard for me, Ton! You want it in what langwage?", which of course makes Tom seriously pissed off, as he is quite anal with spelling. He has to resort to his last option: initiating conflict resolution with the hashtag maintainer. Will Tom get justice?
 
 #### New epics in this episode:
+- [ ] As a user I can find the details for a hashtag, so I can learn more about it.
+https://github.com/swarmcity/SwarmCityConcept/issues/21
+
 - [ ] As a user, I can chat so I can communicate about the deal.
-https://hackmd.io/gdx3zM9oTX27re5DzDmI_Q?both
+https://github.com/swarmcity/SwarmCityConcept/issues/22
 
-- [ ] As a user, I can start a conflict about the deal so I can get my SWT back.
-https://hackmd.io/C9NJhFISQGmZrm512R9ZEA
+- [ ] As a user I can start a conflict about the deal, so I can express I do not agree to the deal anymore.
+https://github.com/swarmcity/SwarmCityConcept/issues/23
 
-## S01 E06: Finding peace
-In episode 6 we meet Crystal, the marketplace maintainer. She is responsible for resolving the conflict between Tom and Brenda.
+## S01 E06: Finding Peace
+In episode 6 we meet Crystal, the Hashtag maintainer. She is responsible for resolving the conflict between Tom and Brenda.
 
 Crystal checks the details of their deal. She joins the chat with Tom and Brenda, and starts communicating with them. She hears both sides of the argument.
 
@@ -141,7 +148,7 @@ Crystal resolves the conflict in favor of Tom. Brenda realizes it was her own fa
 
 #### New epics in this episode:
 - [ ] As a hashtagmaintainer I can resolve conflicts so users have a safe and fair marketplace.
-https://hackmd.io/HWL38ETcTv2u5_kAbjwmIg
+https://github.com/swarmcity/SwarmCityConcept/issues/24
 
 ## S01 E07: Searching New Horizons
 In episode 7, Brenda tries to reply to a request on a different hashtag.
@@ -153,94 +160,46 @@ Brenda sees Gary's request. It's nearby, and it's the amount she's looking for, 
 Gary loses his patience with Brenda, so he deselects her and picks someone else.
 
 #### New epics in this episode:
-- [ ] As a user, I can see all the hashtags with the number of done deals for each hashtag, so I can see the activity in Swarm City. https://hackmd.io/DIjO_Oj_TsCDgUa4RQ0vFw
+- [ ] As a user, I can see all hashtags with the number of completed deals for each hashtag, so I can see the activity in Swarm City. 
+https://github.com/swarmcity/SwarmCityConcept/issues/25
 
-FAFFY WORK NEEDED
-- [ ] As a user, I can filter the hashtagItems on my geo-range of choice so I can see items in my area.
-https://hackmd.io/7oaEEzeVSsaHMDYWUtZ8jA?view
-
-END FAFFY WORK NEEDED
+- [ ] As a user, I can filter a hashtag’s items by my geo-range of choice so I can see items in my area.
+https://github.com/swarmcity/SwarmCityConcept/issues/26
 
 - [ ] As seeker, I can deselect the replier I previously selected, so I can choose another one.
-https://hackmd.io/OpwbB8YoSfKZRYn1_oKRRw
-- [ ] As a provider, I can see when a seeker deselects me, so I know I’m no longer selected. https://hackmd.io/VXi71fKaSaG7NbSwvvDHhQ
-
+https://github.com/swarmcity/SwarmCityConcept/issues/27
 
 ## S01 E08: Bad Luck Gary
 
 In episode 8, Gary has no luck with his deal, so he just gives up.
 
-After deselecting Brenda, Gary selects Pepe as a Provider. Unfortunaly, Pepe declines which leaves Gary's deal without a Provider. This makes Gary totally fed up with Swarm City, cancelling his deal. Will Gary ever do a new request in Swarm.city?
+After deselecting Brenda, Gary selects Pepe as a Provider. Unfortunately, Pepe declines which leaves Gary's deal without a Provider. This makes Gary totally fed up with Swarm City, cancelling his deal. Will Gary ever do a new request in Swarm City?
 
 #### New epics in this episode:
-FAFFY WORK NEEDED
 
 - [ ] As a provider, I decline the selection, so I can express I'm no longer interested in fullfilling the request.
-
-FAFFY END WORK NEEDED
+https://github.com/swarmcity/SwarmCityConcept/issues/28
 
 - [ ] As a seeker, I can cancel my request, so the request is no longer on the hashtag.
-https://hackmd.io/zL84umAnREmgP0F7fwjgag
+https://github.com/swarmcity/SwarmCityConcept/issues/29
 
-
-## S01 E09: Rollercoastin' Brenda
-
-In episode 09, Brenda wakes up and sees how the deal has played out.
-
-Upon waking up, she reaches for her phone and sees a new notification: "You are selected", which fills her with joy. Right after she sees "You have been unselected", realising that being passed out on the couch made her miss the deal completely.
-
-She's a bit pissed off about it and contacts the hashtagmaintainer to get some education. 
-
-#### New epics in this episode:
 - [ ] As a user, I get notified so I can quickly navigate to the actionnable items. 
-https://hackmd.io/4e3-o36mSZmApAV8AXCPHg
+https://github.com/swarmcity/SwarmCityConcept/issues/30
 
-FAFFY AND FLURKEL WORK NEEDED
-- [ ] As a user, I can find the contact details for the hashtag, so I can contact the hashtagmaintainer 
-https://hackmd.io/Vp8-fwJiSBetu8ymG2pmpg
-END FAFFY AND FLURKEL WORK NEEDED
+## S01 Bonus Episode: The Bridge
 
+In this bonus Episode, Frank has been letting all his friends know that Swarm City is a great place to transact with peers in a decentralized way.
 
-## S01 E10: Multiple Identities & Device Sync
-In episode 10, we meet Barry. He wants to buy a sexdoll. Of course he wants to keep this private, so he uses a different identity.
-When he comes home, he uses his desktop computer to check the replies.
+But Frank, who is more crypto-savvy than most, understands that Swarm City exists on the Kovan network, where transaction costs are free. And in order to give the Swarm City ecosystem on Kovan real value, Swam City on Ethereum mainnet will need to be bridged to Kovan.
 
-Will someone find out it's him?
+Frank badly wants his friends to use Swarm City, and receive the benefit of having an account linked to mainnet Ethereum.
+
+Luckily the Kovan-mainnet bridge has been developed! When Frank logs into Swarm City, and heads on over to his wallet, he now sees two accounts, “Cash” and “Reserves”. The SWT in his cash account can be used in the Swarm City ecosystem.
+
+Whenever he wishes to bring his Swarm Tokens to the Ethereum ecosystem, Frank transfers them from his Cash account to his Reserves account.
+
+Will Frank and his friends have an easy time working with both networks?
 
 #### New epics in this episode:
-- [ ] As a user, I choose an identity to do a request with, so I can have control over how people perceive me (privacy).
-- [ ] As a user, I can connect a new device with an existing device so all my devices are in sync.
 
-## S01 E11: Alternate Reality
-In episode 11, we meet Johnny.
-Johnny is a long time fan of Swarm City and still has his original wallet. He's going to try to do a request. 
-
-He restores his account and finds out there's a vault in his wallet now. 
-Will he figure out how to use his tokens?
-
-#### New epics in this episode
-- [ ] As a user, I can bridge my SWT to another Ethereum network, so I can do transactions without worrying about gas prices and Ethereum's scaling problem.
-https://hackmd.io/2ULp-spFSPqiqR04ulezUw
-
-
------
-
-# Season 2: Readying the DOM
-Where Swarm City is prepared to do storefronts
-
-## S02 E01
-Hashtag creation
-
-## S02 E02
-Preparing the dom for storefront
-
------
-
-# Season 3: Hives
-Where Swarm City meets Aragon
-
-## S03 E01
-
------
-
-With ♡ from Swarm City
+- [ ] As a user, I can shift my SWT between two Ethereum networks, so I can do transactions without worrying about gas prices and Ethereum’s scaling problem. https://github.com/swarmcity/SwarmCityConcept/issues/32
